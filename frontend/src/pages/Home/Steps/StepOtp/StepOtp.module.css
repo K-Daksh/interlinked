@@ -1,0 +1,47 @@
+.cardWrapper{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    margin-top: 6rem;
+}
+.buttonWrap{
+    margin-bottom: 5px;
+    display: flex;
+    align-items: center;
+    justify-content: end;
+}
+button{
+    padding: 12px;
+    margin: 5px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    border-radius: 5px;
+    color: white;
+    font-size: 17px;
+    font-weight: bold;
+    background-color: #262626;
+    cursor: pointer;
+   transition: all 0.2s ease-in-out;
+}
+button:hover{
+    background-color: #45a8ff;
+}
+.active{
+    background-color: #007FF0;
+}
+.actionButtonWrape{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    margin-top: 35px;
+}
+.bottomPara{
+    margin-top: 80px;
+    color: #4f4f4f;
+}
+.container{
+    display: flex;
+    justify-content: center;
+    margin-top: 6.2rem;
+}
