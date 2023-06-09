@@ -40,7 +40,7 @@ Softwares and tools you'll need to run this project sucessfully on your machine.
 * mongoose
 * Rest Client
 * compass
-* twilo account (SMS service)
+* twilio account (SMS service)
 
 ### Knowledge required
 
