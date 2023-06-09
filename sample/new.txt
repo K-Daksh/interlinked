@@ -1,0 +1,1 @@
+These pictures are just samples, if you use twilio correctly, you would be able to get the opt and verify it.
